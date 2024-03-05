@@ -7,7 +7,7 @@ A Deep learning project, suitable for classifying satellite images, was trained 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install requirements.py
+python3 -m pip install requirements.py
 ```
 
 ## Usage
